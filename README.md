@@ -1,1 +1,5 @@
-# symfony-qr
+## Installation
+
+UPDATE DEPENDENCIES:
+
+$> composer install
